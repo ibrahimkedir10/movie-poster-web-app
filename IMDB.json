@@ -1,0 +1,125 @@
+{
+"shorts":
+[
+{
+"movieTitle":"The Shawshank Redemption",
+"IMDBRank":"1",
+"movieYear":"1994",
+"movieDirector":"Frank Darabont",
+"movieDesc":"Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+"moviePoster":"Shawshank.jpg",
+"movieStars":"Tim Robbins|Morgan Freeman|Bob Gunton",
+"youtubeCode":"NmzuHjWmXOc"
+},
+{
+"movieTitle":"The Godfather",
+"IMDBRank":"2",
+"movieYear":"1972",
+"movieDirector":"Francis Ford Coppola",
+"movieDesc":"The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+"moviePoster":"GodFather.jpg",
+"movieStars":" Marlon Brando|Al Pacino|James Caan",
+"youtubeCode":"5DO-nDW43Ik"
+},
+{
+"movieTitle":"The Godfather: Part II",
+"IMDBRank":"3",
+"movieYear":"1974",
+"movieDirector":"Francis Ford Coppola",
+"movieDesc":"The early life and career of Vito Corleone in 1920s New York is portrayed while his son, Michael, expands and tightens his grip on his crime syndicate stretching from Lake Tahoe, Nevada to pre-revolution 1958 Cuba.",
+"moviePoster":"GodFatherII.jpg",
+"movieStars":"Al Pacino|Robert De Niro|Robert Duvall",
+"youtubeCode":"qJr92K_hKl0"
+},
+{
+"movieTitle":"The Dark Knight",
+"IMDBRank":"4",
+"movieYear":"2008",
+"movieDirector":"Christopher Nolan",
+"movieDesc":"When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.",
+"moviePoster":"DarkKnight.jpg",
+"movieStars":"Christian Bale|Heath Ledger|Aaron Eckhart",
+"youtubeCode":"EXeTwQWrcwY"
+},
+{
+"movieTitle":"Pulp Fiction ",
+"IMDBRank":"5",
+"movieYear":"1994",
+"movieDirector":"Quentin Tarantino",
+"movieDesc":"he lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+"moviePoster":"PulpFiction.jpg",
+"movieStars":"John Travolta|Uma Thurman|Samuel L. Jackson",
+"youtubeCode":"ewlwcEBTvcg"
+},
+{
+"movieTitle":"The Good, the Bad and the Ugly",
+"IMDBRank":"6",
+"movieYear":"1966",
+"movieDirector":"Sergio Leone",
+"movieDesc":"A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+"moviePoster":"GoodBadUgly.jpg",
+"movieStars":"Clint Eastwood|Eli Wallach|Lee Van Cleef",
+"youtubeCode":"WCN5JJY_wiA"
+},
+{
+"movieTitle":"12 Angry Men",
+"IMDBRank":"7",
+"movieYear":"1957",
+"movieDirector":"Sidney Lumet",
+"movieDesc":"A dissenting juror in a murder trial slowly manages to convince the others that the case is not as obviously clear as it seemed in court.",
+"moviePoster":"TwelveAngryMen.jpg",
+"movieStars":"Henry Fonda|Lee J. Cobb|Martin Balsam",
+"youtubeCode":"A7CBKT0PWFA"
+},
+{
+"movieTitle":"Schindler's List",
+"IMDBRank":"8",
+"movieYear":"1993",
+"movieDirector":"Steven Spielberg",
+"movieDesc":"In Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+"moviePoster":"SchindlersList.jpg",
+"movieStars":"Liam Neeson|Ralph Fiennes|Ben Kingsley",
+"youtubeCode":"gG22XNhtnoY"
+},
+{
+"movieTitle":"The Lord of the Rings: The Return of the King",
+"IMDBRank":"9",
+"movieYear":"2003",
+"movieDirector":"Peter Jackson",
+"movieDesc":"Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+"moviePoster":"LordOfRingsReturn.jpg",
+"movieStars":"Elijah Wood|Viggo Mortensen|Ian McKellen",
+"youtubeCode":"y2rYRu8UW8M"
+},
+{
+"movieTitle":"Fight Club",
+"IMDBRank":"10",
+"movieYear":"1999",
+"movieDirector":"David Fincher",
+"movieDesc":"An insomniac office worker looking for a way to change his life crosses paths with a devil-may-care soap maker and they form an underground fight club that evolves into something much, much more...",
+"moviePoster":"FightClub.jpg",
+"movieStars":"Brad Pitt|Edward Norton|Helena Bonham Carter",
+"youtubeCode":"SUXWAEX2jlg"
+},
+{
+"movieTitle":"The Lord of the Rings: The Fellowship of the Ring",
+"IMDBRank":"11",
+"movieYear":"2001",
+"movieDirector":"Peter Jackson",
+"movieDesc":"A meek hobbit of the Shire and eight companions set out on a journey to Mount Doom to destroy the One Ring and the dark lord Sauron.",
+"moviePoster":"LordOfRingsFellowship.jpg",
+"movieStars":"Elijah Wood|Ian McKellen|Orlando Bloom",
+"youtubeCode":"V75dMMIW2B4"
+},
+{
+"movieTitle":"Star Wars: Episode V - The Empire Strikes Back",
+"IMDBRank":"12",
+"movieYear":"1980",
+"movieDirector":"Irvin Kershner",
+"movieDesc":"After the rebels have been brutally overpowered by the Empire on their newly established base, Luke Skywalker takes advanced Jedi training with Master Yoda, while his friends are pursued by Darth Vader as part of his plan to capture Luke.",
+"moviePoster":"EmpireStrikesBack.jpg",
+"movieStars":"Mark Hamill|Harrison Ford|Carrie Fisher",
+"youtubeCode":"JNwNXF9Y6kY"
+}
+]
+}
